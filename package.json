@@ -4,7 +4,7 @@
   "description": "``` npm i tsc node dist/main.ts ```",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "rxjs": "^6.5.4"
   },
   "devDependencies": {},
